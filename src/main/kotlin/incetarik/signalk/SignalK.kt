@@ -1,4 +1,4 @@
-package incetarik
+package incetarik.signalk
 
 import com.google.gson.JsonElement
 import microsoft.aspnet.signalr.client.hubs.*
